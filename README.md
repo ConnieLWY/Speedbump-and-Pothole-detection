@@ -1,4 +1,4 @@
-# Speedbump-and-Pothole-detection
+# Speedbump-and-Pothole-detection (Streamlit)
 This repository is prepared for BSD3724	DATA SCIENCE PROJECT II.
 
 The weights can download from here:
